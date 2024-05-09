@@ -168,7 +168,7 @@ category = ''
 
 # Open text file and parse stream information and URL
 with open('./streams.txt', encoding='utf-8') as f:
-    print('"#EXTM3U x-tvg-url="https://raw.githubusercontent.com/didikc/STREAMS/main/epg.xml refresh="3""')
+    print('#EXTM3U x-tvg-url="https://raw.githubusercontent.com/didikc/STREAMS/main/epg.xml refresh="3"')
     for line in f:
         line = line.strip()
         if not line or line.startswith('##'):
