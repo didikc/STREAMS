@@ -2,11 +2,6 @@
   <channel id="Disneyjunior.yt">
     <display-name lang="en">Disney Junior</display-name>
   </channel>
-  <programme channel="Disneyjunior.yt" start="20240528090000 +0700" stop="20240528120000 +0700">
-    <title lang="en">🔴 LIVE! Winnie the Pooh Shorts 🍯 | Songs, Dance, &amp; Play | NEW LIVESTREAM | @disneyjunior</title>
-    <desc lang="en">Play with Winnie the Pooh, Tigger, Piglet, Eeyore, Kanga and MORE friends in their Treehouse in the Hundred Acre Wood! 🍯Playdate with Winnie the Pooh 🍯Pigl...</desc>
-    <icon src="https://i.ytimg.com/vi/UmdMTatmQTQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Disneyjunior.yt" start="20240528120000 +0700" stop="20240528150000 +0700">
     <title lang="en">🔴 LIVE! Winnie the Pooh Shorts 🍯 | Songs, Dance, &amp; Play | NEW LIVESTREAM | @disneyjunior</title>
     <desc lang="en">Play with Winnie the Pooh, Tigger, Piglet, Eeyore, Kanga and MORE friends in their Treehouse in the Hundred Acre Wood! 🍯Playdate with Winnie the Pooh 🍯Pigl...</desc>
@@ -42,14 +37,14 @@
     <desc lang="en">Play with Winnie the Pooh, Tigger, Piglet, Eeyore, Kanga and MORE friends in their Treehouse in the Hundred Acre Wood! 🍯Playdate with Winnie the Pooh 🍯Pigl...</desc>
     <icon src="https://i.ytimg.com/vi/UmdMTatmQTQ/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Winniethepooh.yt">
-    <display-name lang="en">Winnie The Pooh</display-name>
-  </channel>
-  <programme channel="Winniethepooh.yt" start="20240528090000 +0700" stop="20240528120000 +0700">
+  <programme channel="Disneyjunior.yt" start="20240529090000 +0700" stop="20240529120000 +0700">
     <title lang="en">🔴 LIVE! Winnie the Pooh Shorts 🍯 | Songs, Dance, &amp; Play | NEW LIVESTREAM | @disneyjunior</title>
     <desc lang="en">Play with Winnie the Pooh, Tigger, Piglet, Eeyore, Kanga and MORE friends in their Treehouse in the Hundred Acre Wood! 🍯Playdate with Winnie the Pooh 🍯Pigl...</desc>
     <icon src="https://i.ytimg.com/vi/UmdMTatmQTQ/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="Winniethepooh.yt">
+    <display-name lang="en">Winnie The Pooh</display-name>
+  </channel>
   <programme channel="Winniethepooh.yt" start="20240528120000 +0700" stop="20240528150000 +0700">
     <title lang="en">🔴 LIVE! Winnie the Pooh Shorts 🍯 | Songs, Dance, &amp; Play | NEW LIVESTREAM | @disneyjunior</title>
     <desc lang="en">Play with Winnie the Pooh, Tigger, Piglet, Eeyore, Kanga and MORE friends in their Treehouse in the Hundred Acre Wood! 🍯Playdate with Winnie the Pooh 🍯Pigl...</desc>
@@ -85,14 +80,14 @@
     <desc lang="en">Play with Winnie the Pooh, Tigger, Piglet, Eeyore, Kanga and MORE friends in their Treehouse in the Hundred Acre Wood! 🍯Playdate with Winnie the Pooh 🍯Pigl...</desc>
     <icon src="https://i.ytimg.com/vi/UmdMTatmQTQ/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Winniethepooh.yt" start="20240529090000 +0700" stop="20240529120000 +0700">
+    <title lang="en">🔴 LIVE! Winnie the Pooh Shorts 🍯 | Songs, Dance, &amp; Play | NEW LIVESTREAM | @disneyjunior</title>
+    <desc lang="en">Play with Winnie the Pooh, Tigger, Piglet, Eeyore, Kanga and MORE friends in their Treehouse in the Hundred Acre Wood! 🍯Playdate with Winnie the Pooh 🍯Pigl...</desc>
+    <icon src="https://i.ytimg.com/vi/UmdMTatmQTQ/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Spidey.yt">
     <display-name lang="en">Spidey</display-name>
   </channel>
-  <programme channel="Spidey.yt" start="20240528090000 +0700" stop="20240528120000 +0700">
-    <title lang="en">🔴 LIVE! NEW SPIDEY FULL EPISODES &amp; SHORTS | Marvel's Spidey and his Amazing Friends | @disneyjunior</title>
-    <desc lang="en">Spring into action with the Spidey Team and watch 5 full episodes and shorts of Marvel's Spidey and his Amazing Friends LIVE! Season 1 Episode 1: Spidey To t...</desc>
-    <icon src="https://i.ytimg.com/vi/DulkvDhBx08/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Spidey.yt" start="20240528120000 +0700" stop="20240528150000 +0700">
     <title lang="en">🔴 LIVE! NEW SPIDEY FULL EPISODES &amp; SHORTS | Marvel's Spidey and his Amazing Friends | @disneyjunior</title>
     <desc lang="en">Spring into action with the Spidey Team and watch 5 full episodes and shorts of Marvel's Spidey and his Amazing Friends LIVE! Season 1 Episode 1: Spidey To t...</desc>
@@ -128,14 +123,14 @@
     <desc lang="en">Spring into action with the Spidey Team and watch 5 full episodes and shorts of Marvel's Spidey and his Amazing Friends LIVE! Season 1 Episode 1: Spidey To t...</desc>
     <icon src="https://i.ytimg.com/vi/DulkvDhBx08/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Spidey.yt" start="20240529090000 +0700" stop="20240529120000 +0700">
+    <title lang="en">🔴 LIVE! NEW SPIDEY FULL EPISODES &amp; SHORTS | Marvel's Spidey and his Amazing Friends | @disneyjunior</title>
+    <desc lang="en">Spring into action with the Spidey Team and watch 5 full episodes and shorts of Marvel's Spidey and his Amazing Friends LIVE! Season 1 Episode 1: Spidey To t...</desc>
+    <icon src="https://i.ytimg.com/vi/DulkvDhBx08/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Bluey.yt">
     <display-name lang="en">Bluey</display-name>
   </channel>
-  <programme channel="Bluey.yt" start="20240528090000 +0700" stop="20240528120000 +0700">
-    <title lang="en">🔴 LIVE! Bluey Full Episodes | NEW Episodes Added | Keepy Uppy, Sleepytime and MORE! |  @disneyjunior</title>
-    <desc lang="en">Can we get a Bluey live stream?! AH CAN WE GET A BLUEY LIVE STREAM?! YES! FOR REAL LIFE! Watch Bluey full episodes LIVE!Bluey is an inexhaustible six-year-ol...</desc>
-    <icon src="https://i.ytimg.com/vi/x7I9aLJ4hKo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Bluey.yt" start="20240528120000 +0700" stop="20240528150000 +0700">
     <title lang="en">🔴 LIVE! Bluey Full Episodes | NEW Episodes Added | Keepy Uppy, Sleepytime and MORE! |  @disneyjunior</title>
     <desc lang="en">Can we get a Bluey live stream?! AH CAN WE GET A BLUEY LIVE STREAM?! YES! FOR REAL LIFE! Watch Bluey full episodes LIVE!Bluey is an inexhaustible six-year-ol...</desc>
@@ -171,14 +166,14 @@
     <desc lang="en">Can we get a Bluey live stream?! AH CAN WE GET A BLUEY LIVE STREAM?! YES! FOR REAL LIFE! Watch Bluey full episodes LIVE!Bluey is an inexhaustible six-year-ol...</desc>
     <icon src="https://i.ytimg.com/vi/x7I9aLJ4hKo/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Bluey.yt" start="20240529090000 +0700" stop="20240529120000 +0700">
+    <title lang="en">🔴 LIVE! Bluey Full Episodes | NEW Episodes Added | Keepy Uppy, Sleepytime and MORE! |  @disneyjunior</title>
+    <desc lang="en">Can we get a Bluey live stream?! AH CAN WE GET A BLUEY LIVE STREAM?! YES! FOR REAL LIFE! Watch Bluey full episodes LIVE!Bluey is an inexhaustible six-year-ol...</desc>
+    <icon src="https://i.ytimg.com/vi/x7I9aLJ4hKo/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Mickeyvlogs.yt">
     <display-name lang="en">Mickey Vlogs</display-name>
   </channel>
-  <programme channel="Mickeyvlogs.yt" start="20240528090000 +0700" stop="20240528120000 +0700">
-    <title lang="en">🔴 LIVE! NEW! All Me &amp; Mickey Vlogs | Music, Dance, DIY and Story Time! | @disneyjunior</title>
-    <desc lang="en">Watch all the Me &amp; Mickey shorts LIVE! Are you one of Mickey’s pals who has visited the Mickey Mouse Clubhouse? Are you ready for more adventures with Mickey...</desc>
-    <icon src="https://i.ytimg.com/vi/0L6EvgWotfI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Mickeyvlogs.yt" start="20240528120000 +0700" stop="20240528150000 +0700">
     <title lang="en">🔴 LIVE! NEW! All Me &amp; Mickey Vlogs | Music, Dance, DIY and Story Time! | @disneyjunior</title>
     <desc lang="en">Watch all the Me &amp; Mickey shorts LIVE! Are you one of Mickey’s pals who has visited the Mickey Mouse Clubhouse? Are you ready for more adventures with Mickey...</desc>
@@ -214,14 +209,14 @@
     <desc lang="en">Watch all the Me &amp; Mickey shorts LIVE! Are you one of Mickey’s pals who has visited the Mickey Mouse Clubhouse? Are you ready for more adventures with Mickey...</desc>
     <icon src="https://i.ytimg.com/vi/0L6EvgWotfI/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Mickeyvlogs.yt" start="20240529090000 +0700" stop="20240529120000 +0700">
+    <title lang="en">🔴 LIVE! NEW! All Me &amp; Mickey Vlogs | Music, Dance, DIY and Story Time! | @disneyjunior</title>
+    <desc lang="en">Watch all the Me &amp; Mickey shorts LIVE! Are you one of Mickey’s pals who has visited the Mickey Mouse Clubhouse? Are you ready for more adventures with Mickey...</desc>
+    <icon src="https://i.ytimg.com/vi/0L6EvgWotfI/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Minniebowtoons.yt">
     <display-name lang="en">Minnie Bow Toons</display-name>
   </channel>
-  <programme channel="Minniebowtoons.yt" start="20240528090000 +0700" stop="20240528120000 +0700">
-    <title lang="en">🔴 LIVE! All Minnie's Bow-Toons! 🎀| NEW BOW-TOONS: CAMP MINNIE SHORTS! | @disneyjunior</title>
-    <desc lang="en">There’s no business like bow business! Minnie Mouse teams up with her friend Daisy Duck to open up Minnie’s Bow-tique, a store that sells bows and ties to al...</desc>
-    <icon src="https://i.ytimg.com/vi/OjlaUkllTss/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Minniebowtoons.yt" start="20240528120000 +0700" stop="20240528150000 +0700">
     <title lang="en">🔴 LIVE! All Minnie's Bow-Toons! 🎀| NEW BOW-TOONS: CAMP MINNIE SHORTS! | @disneyjunior</title>
     <desc lang="en">There’s no business like bow business! Minnie Mouse teams up with her friend Daisy Duck to open up Minnie’s Bow-tique, a store that sells bows and ties to al...</desc>
@@ -257,14 +252,14 @@
     <desc lang="en">There’s no business like bow business! Minnie Mouse teams up with her friend Daisy Duck to open up Minnie’s Bow-tique, a store that sells bows and ties to al...</desc>
     <icon src="https://i.ytimg.com/vi/OjlaUkllTss/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Minniebowtoons.yt" start="20240529090000 +0700" stop="20240529120000 +0700">
+    <title lang="en">🔴 LIVE! All Minnie's Bow-Toons! 🎀| NEW BOW-TOONS: CAMP MINNIE SHORTS! | @disneyjunior</title>
+    <desc lang="en">There’s no business like bow business! Minnie Mouse teams up with her friend Daisy Duck to open up Minnie’s Bow-tique, a store that sells bows and ties to al...</desc>
+    <icon src="https://i.ytimg.com/vi/OjlaUkllTss/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Mickeymouseclubhouse.yt">
     <display-name lang="en">Mickey Mouse Clubhouse</display-name>
   </channel>
-  <programme channel="Mickeymouseclubhouse.yt" start="20240528090000 +0700" stop="20240528120000 +0700">
-    <title lang="en">🔴 LIVE! Mickey Mouse Clubhouse + Roadster Racers + Mixed-Up Adventures Full Episodes@disneyjunior</title>
-    <desc lang="en">Hotdog! Watch the full first season of Mickey Mouse Clubhouse, Mickey Mouse Roadster Racers &amp; Mickey Mouse Mixed-Up Adventures LIVE!Mickey Mouse and his lova...</desc>
-    <icon src="https://i.ytimg.com/vi/Dkkp4KfdGPY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Mickeymouseclubhouse.yt" start="20240528120000 +0700" stop="20240528150000 +0700">
     <title lang="en">🔴 LIVE! Mickey Mouse Clubhouse + Roadster Racers + Mixed-Up Adventures Full Episodes@disneyjunior</title>
     <desc lang="en">Hotdog! Watch the full first season of Mickey Mouse Clubhouse, Mickey Mouse Roadster Racers &amp; Mickey Mouse Mixed-Up Adventures LIVE!Mickey Mouse and his lova...</desc>
@@ -300,14 +295,14 @@
     <desc lang="en">Hotdog! Watch the full first season of Mickey Mouse Clubhouse, Mickey Mouse Roadster Racers &amp; Mickey Mouse Mixed-Up Adventures LIVE!Mickey Mouse and his lova...</desc>
     <icon src="https://i.ytimg.com/vi/Dkkp4KfdGPY/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Mickeymouseclubhouse.yt" start="20240529090000 +0700" stop="20240529120000 +0700">
+    <title lang="en">🔴 LIVE! Mickey Mouse Clubhouse + Roadster Racers + Mixed-Up Adventures Full Episodes@disneyjunior</title>
+    <desc lang="en">Hotdog! Watch the full first season of Mickey Mouse Clubhouse, Mickey Mouse Roadster Racers &amp; Mickey Mouse Mixed-Up Adventures LIVE!Mickey Mouse and his lova...</desc>
+    <icon src="https://i.ytimg.com/vi/Dkkp4KfdGPY/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="KompasTV.yt">
     <display-name lang="en">Kompas TV</display-name>
   </channel>
-  <programme channel="KompasTV.yt" start="20240528090000 +0700" stop="20240528120000 +0700">
-    <title lang="en">LIVE STREAMING 24 JAM - KOMPAS TV</title>
-    <desc lang="en">Halo, Sahabat KompasTV! Untuk pengalaman menonton yang lebih menyenangkan dan lebih baik, silakan ubah kualitas videomu ke 1080p HD!Untuk pengguna laptop/PC/...</desc>
-    <icon src="https://i.ytimg.com/vi/DOOrIxw5xOw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="KompasTV.yt" start="20240528120000 +0700" stop="20240528150000 +0700">
     <title lang="en">LIVE STREAMING 24 JAM - KOMPAS TV</title>
     <desc lang="en">Halo, Sahabat KompasTV! Untuk pengalaman menonton yang lebih menyenangkan dan lebih baik, silakan ubah kualitas videomu ke 1080p HD!Untuk pengguna laptop/PC/...</desc>
@@ -343,14 +338,14 @@
     <desc lang="en">Halo, Sahabat KompasTV! Untuk pengalaman menonton yang lebih menyenangkan dan lebih baik, silakan ubah kualitas videomu ke 1080p HD!Untuk pengguna laptop/PC/...</desc>
     <icon src="https://i.ytimg.com/vi/DOOrIxw5xOw/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="KompasTV.yt" start="20240529090000 +0700" stop="20240529120000 +0700">
+    <title lang="en">LIVE STREAMING 24 JAM - KOMPAS TV</title>
+    <desc lang="en">Halo, Sahabat KompasTV! Untuk pengalaman menonton yang lebih menyenangkan dan lebih baik, silakan ubah kualitas videomu ke 1080p HD!Untuk pengguna laptop/PC/...</desc>
+    <icon src="https://i.ytimg.com/vi/DOOrIxw5xOw/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="TVOne.yt">
     <display-name lang="en">TV One</display-name>
   </channel>
-  <programme channel="TVOne.yt" start="20240528090000 +0700" stop="20240528120000 +0700">
-    <title lang="en">Live Streaming tvOne 24 Jam</title>
-    <desc lang="en">Jakarta, tvOnenews.com - Live Streaming tvOne 24 JamSaksikan program-program unggulan tvOne seperti Kabar Siang, Kabar Petang, Apa Kabar Indonesia Pagi, Apa ...</desc>
-    <icon src="https://i.ytimg.com/vi/yNKvkPJl-tg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TVOne.yt" start="20240528120000 +0700" stop="20240528150000 +0700">
     <title lang="en">Live Streaming tvOne 24 Jam</title>
     <desc lang="en">Jakarta, tvOnenews.com - Live Streaming tvOne 24 JamSaksikan program-program unggulan tvOne seperti Kabar Siang, Kabar Petang, Apa Kabar Indonesia Pagi, Apa ...</desc>
@@ -386,14 +381,14 @@
     <desc lang="en">Jakarta, tvOnenews.com - Live Streaming tvOne 24 JamSaksikan program-program unggulan tvOne seperti Kabar Siang, Kabar Petang, Apa Kabar Indonesia Pagi, Apa ...</desc>
     <icon src="https://i.ytimg.com/vi/yNKvkPJl-tg/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="TVOne.yt" start="20240529090000 +0700" stop="20240529120000 +0700">
+    <title lang="en">Live Streaming tvOne 24 Jam</title>
+    <desc lang="en">Jakarta, tvOnenews.com - Live Streaming tvOne 24 JamSaksikan program-program unggulan tvOne seperti Kabar Siang, Kabar Petang, Apa Kabar Indonesia Pagi, Apa ...</desc>
+    <icon src="https://i.ytimg.com/vi/yNKvkPJl-tg/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="MetroTV.yt">
     <display-name lang="en">Metro TV</display-name>
   </channel>
-  <programme channel="MetroTV.yt" start="20240528090000 +0700" stop="20240528120000 +0700">
-    <title lang="en">METRO TV - LIVE STREAMING 24 JAM</title>
-    <desc lang="en">METRO TV - LIVE STREAMING 24 JAM #metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk...</desc>
-    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="MetroTV.yt" start="20240528120000 +0700" stop="20240528150000 +0700">
     <title lang="en">METRO TV - LIVE STREAMING 24 JAM</title>
     <desc lang="en">METRO TV - LIVE STREAMING 24 JAM #metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk...</desc>
@@ -429,14 +424,14 @@
     <desc lang="en">METRO TV - LIVE STREAMING 24 JAM #metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk...</desc>
     <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="MetroTV.yt" start="20240529090000 +0700" stop="20240529120000 +0700">
+    <title lang="en">METRO TV - LIVE STREAMING 24 JAM</title>
+    <desc lang="en">METRO TV - LIVE STREAMING 24 JAM #metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk...</desc>
+    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="NetTV.yt">
     <display-name lang="en">Net TV</display-name>
   </channel>
-  <programme channel="NetTV.yt" start="20240528090000 +0700" stop="20240528120000 +0700">
-    <title lang="en">NET TV LIVE 2024</title>
-    <desc lang="en">No description provided</desc>
-    <icon src="https://i.ytimg.com/vi/Vur6WLoMUwE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="NetTV.yt" start="20240528120000 +0700" stop="20240528150000 +0700">
     <title lang="en">NET TV LIVE 2024</title>
     <desc lang="en">No description provided</desc>
@@ -472,14 +467,14 @@
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/Vur6WLoMUwE/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="NetTV.yt" start="20240529090000 +0700" stop="20240529120000 +0700">
+    <title lang="en">NET TV LIVE 2024</title>
+    <desc lang="en">No description provided</desc>
+    <icon src="https://i.ytimg.com/vi/Vur6WLoMUwE/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="QuranTV.yt">
     <display-name lang="en">Quran TV</display-name>
   </channel>
-  <programme channel="QuranTV.yt" start="20240528090000 +0700" stop="20240528120000 +0700">
-    <title lang="en">بث مباشر || قناة القرآن الكريم || Makkah Live</title>
-    <desc lang="en">قناة القرآن الكريم قناة رسمية تابعة لهيئة الإذاعة والتلفزيون السعودية (هيئة حكومية تابعة لحكومة المملكة العربية السعودية ) تبث على مدار الساعة للحرم المكي ال...</desc>
-    <icon src="https://i.ytimg.com/vi/moQtMet7F7w/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="QuranTV.yt" start="20240528120000 +0700" stop="20240528150000 +0700">
     <title lang="en">بث مباشر || قناة القرآن الكريم || Makkah Live</title>
     <desc lang="en">قناة القرآن الكريم قناة رسمية تابعة لهيئة الإذاعة والتلفزيون السعودية (هيئة حكومية تابعة لحكومة المملكة العربية السعودية ) تبث على مدار الساعة للحرم المكي ال...</desc>
@@ -511,6 +506,11 @@
     <icon src="https://i.ytimg.com/vi/moQtMet7F7w/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="QuranTV.yt" start="20240529060000 +0700" stop="20240529090000 +0700">
+    <title lang="en">بث مباشر || قناة القرآن الكريم || Makkah Live</title>
+    <desc lang="en">قناة القرآن الكريم قناة رسمية تابعة لهيئة الإذاعة والتلفزيون السعودية (هيئة حكومية تابعة لحكومة المملكة العربية السعودية ) تبث على مدار الساعة للحرم المكي ال...</desc>
+    <icon src="https://i.ytimg.com/vi/moQtMet7F7w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="QuranTV.yt" start="20240529090000 +0700" stop="20240529120000 +0700">
     <title lang="en">بث مباشر || قناة القرآن الكريم || Makkah Live</title>
     <desc lang="en">قناة القرآن الكريم قناة رسمية تابعة لهيئة الإذاعة والتلفزيون السعودية (هيئة حكومية تابعة لحكومة المملكة العربية السعودية ) تبث على مدار الساعة للحرم المكي ال...</desc>
     <icon src="https://i.ytimg.com/vi/moQtMet7F7w/maxresdefault_live.jpg"/>
