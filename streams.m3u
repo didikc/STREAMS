@@ -1,40 +1,40 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/didikc/STREAMS/main/epg.xml refresh="3"
 
 #EXTINF:-1 tvg-id="Disneyjunior.yt" tvg-name="Disney Junior" group-title="Disney", Disney Junior
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719427154/ei/8gt8ZvWVGbqalu8PwM2ziAs/ip/172.183.88.189/id/UmdMTatmQTQ.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-G0SnAKA6UWUgjAC6zuUOjVQVj0I1upybXaTkXjBflCVmMQx4XyIYmwp28/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIufXyqa2CyfMlPMpKlw7IpggKutrcXv8itumI_wi_LcAiB_wBDRQM0djY4KBDmNkDsDVd24hG083PpKvcAUsdtxgQ%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Superheroes.yt" tvg-name="Super Heroes" group-title="Disney", Super Heroes
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Winniethepooh.yt" tvg-name="Winnie The Pooh" group-title="Disney", Winnie The Pooh
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719427155/ei/8wt8ZpToAqqd2_gP5_Kx4As/ip/172.183.88.189/id/UmdMTatmQTQ.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166971/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fz0sXaGtU11WevhOX_dWpoTfrb83tDdyGwOYBZBf8jRCxQoSa-Q9FjkPJP8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgD5fXWD5xARJwwFR12gX-3OGw3gpjhfNRj2aRXuvQ8sUCIQDhIYlLZrne2ausYYcodi8Toh2cFlvGxjs86n8wNX2uew%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Spidey.yt" tvg-name="Spidey" group-title="Disney", Spidey
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719427155/ei/8wt8ZqzzI9LGybgPvYCp0A4/ip/172.183.88.189/id/DulkvDhBx08.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f92JjmIXpH3vPr6qXZSZpbL_cCJfloZd8flVfM368_bNthYVX_-OlHiDwMI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALep7pt6amDBwAOku2U7otMwoyeGd5iBhoEodNYFo4-mAiEAotmlTEmBqhEe-50orzFwlhomMnrT7_LpWI5MEhTJaKU%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Bluey.yt" tvg-name="Bluey" group-title="Disney", Bluey
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719427156/ei/9At8ZufLBbqalu8PwM2ziAs/ip/172.183.88.189/id/x7I9aLJ4hKo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f1M8TLjOrwUkc8CxA6MvEKL2E5tGfJA265oIZ6R2btKvLc7SF97cw5vBhKI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgTWauU3aDOmev1IX1yN6cmWGzDsn6Zrnox7VmG-bUlXoCIEy5eyuAEWYNpg-W9qoA5d3TIHFQYq5SI7NTjhSr5_7q/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Mickeyvlogs.yt" tvg-name="Mickey Vlogs" group-title="Disney", Mickey Vlogs
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719427156/ei/9At8Zt-aJejRlu8P7Oa_6Ao/ip/172.183.88.189/id/0L6EvgWotfI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5KXSHAjlrK64sFpq7Yj0JiUdM10nVLRDzDSH70joIpIyA5uO8lJ8nOitM8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPcCFKxPULBpmP0eaYWRiSsjZHIJtxogRBI1R_ipsppuAiEAoGIPmfxDi4toDNy45iLg2hba7GwywFWUG-FWFvUwqQ8%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Minniebowtoons.yt" tvg-name="Minnie Bow Toons" group-title="Disney", Minnie Bow Toons
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719427157/ei/9Qt8ZseWBp6bybgPupSu8AI/ip/172.183.88.189/id/OjlaUkllTss.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3YqArjECYACS1_lJRIePc-R8heoZ0Ry25zqI4IibdywLipWjoNabl9_GJU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOFND_4Dm_HwciftSVmHasKAhJSOi3foXciFveYlpV5iAiAT7zHh39WTfSIg3L93wGgreSGuCneDPfzvL1esZ_AEWg%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Mickeymouseclubhouse.yt" tvg-name="Mickey Mouse Clubhouse" group-title="Disney", Mickey Mouse Clubhouse
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719427157/ei/9Qt8Zu3JJbmb2_gPjc2e2AI/ip/172.183.88.189/id/Dkkp4KfdGPY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f9CMmXew9yAPWTZ3jZ8TAk00WI-XVWsJ60gjNl56fqLRK5ttSbMJrihdH6g/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgY1m-tNy3Gha74SdY1WY8GVfIUhhwKtURLAFNulwMYSoCIQCV_CODldJ30Z9oEMexC5N9dU9w0gOefp1faF1gKkjvNA%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="KompasTV.yt" tvg-name="Kompas TV" group-title="News", Kompas TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719427158/ei/9gt8ZovzBISL2_gPwKGskAc/ip/172.183.88.189/id/DOOrIxw5xOw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9xfwv-_VNwB2lmWGi-F-XvtW44UmOgGDgl7Pi0oKsa5CAZwkMZPa1susC0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKajjTt0IWK2RhkCFYYrlVR8uUPEj9DT6DJ2CH_mPSG_AiB9gN6GaiVtLVcmjTg1QilibX_Is5TTkiqAh9TWFzQtIg%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="TVOne.yt" tvg-name="TV One" group-title="News", TV One
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719427158/ei/9gt8Zq_cKIOFybgPob2DuA4/ip/172.183.88.189/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_VbpetB89Q_M5TpbqkGq8iF0zz8BaqDlOy_RHv2NHcJ6fEVNzW_KADOz2c/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALECF8INgolbJeXeB_QEEhmsECtN22ZHlMPngs_JIh4DAiBY__IAxzTIAZXRocX9hub45jiGUGpSUFYNyzvg-FlDAA%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="iNews.yt" tvg-name="iNews" group-title="News", iNews
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="MetroTV.yt" tvg-name="Metro TV" group-title="News", Metro TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719427159/ei/9wt8ZvDPL5Prir4Ppba2SA/ip/172.183.88.189/id/XKueVSGTk2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f19YUQRfUDdEwXqU2Qtcy4JPmeSNy2L_070Nv8V_SUPspd3Yf9cvItif5vQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgaBj693g7uvA0V6WtfQ5D8_2pz_BNE1deZd2_DU7zvmUCIF_Tz_Rh-MyvXTzy6mRcfHM_roB3r80-24ahkqW2eMhb/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="NetTV.yt" tvg-name="Net TV" group-title="News", Net TV
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
@@ -43,7 +43,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="QuranTV.yt" tvg-name="Quran TV" group-title="Saudi Tv", Quran TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719427161/ei/-Qt8ZvfrINWnlu8Ph6CT8Ao/ip/172.183.88.189/id/moQtMet7F7w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181253/txs/51181249%2C51181250%2C51181251%2C51181252%2C51181253%2C51181254/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f77lm15IlS2m5bH2BZTwYyZV0b-xpwS7CwHy-93VgYqaujtL2OUV332DVoI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWPo9O5mFucMwdcFdj8o_a4DOJUu-wmnXmEgjM-X0qUACIQDwCeG-9ZaiSHlVl0pKWvxNV0SlbcI17Nd5C_j8YnvqVw%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="SunnahTV.yt" tvg-name="Sunnah TV" group-title="Saudi Tv", Sunnah TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719427162/ei/-gt8Zv_GAtWulu8P5PCGkAE/ip/172.183.88.189/id/gbLhU27-QWc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0bjWCCv6USEGtF51Y8FoJ3Yn3wASB19x1Io_vwfMPwpG18g5brXYaHek98/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgGesKCD-sV4aJM2fD3-mvG5dvff9VFfqZLwRtSouFo1MCIQCVE1wukX9MIarqDjF6xq0qk6_zIDnobIR-uRujyzxklQ%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
